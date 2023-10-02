@@ -20,7 +20,7 @@
     width:357px;
     color:rgb(9, 9, 9);
     border-radius: 70px;
-    margin-top: 10px;
+    margin-top: 20px;
     box-shadow: 2px 4px 10px rgba(224, 65, 65, 0.5);
     margin-left: 14px;
     /* margin-right:20px; */
@@ -35,7 +35,7 @@
 
 .profile{
     position:relative;
-    left:37%;
+    left:35%;
 }
 
 /* .navbar i{
@@ -60,7 +60,8 @@
     display:flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    row-gap: 5px;
+/*     row-gap: 5px; */
+    margin-top:20px;
 
 
 }
